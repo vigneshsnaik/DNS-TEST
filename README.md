@@ -1,0 +1,3 @@
+# DNS-TEST
+Congratssss......
+You have succesfully accessed raw.githubusercontent.com without the help of DNS
